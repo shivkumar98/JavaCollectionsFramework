@@ -42,6 +42,11 @@ public class AccessElementsFromArrayListsExample {
 		
 		System.out.println(topProgrammeLangs);
 		
+		//comparing to arrays;
+		String[] topLangs = new String[2];
+		topLangs[1] = "C#";
+		
+		
 		
 
 	}
